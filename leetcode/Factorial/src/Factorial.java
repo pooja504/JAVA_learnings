@@ -7,6 +7,7 @@ public class Factorial {
 
 
     public static int findFactorial(int a){
+
         int sum=1;
         if(a>0){
             for (int i=1; i<=a;i++){
